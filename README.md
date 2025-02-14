@@ -5,4 +5,5 @@ Instructions:
 
 Copy or move mspaint6801style.exe to C:\Windows\System32
 and copy or move mspaint6801style.exe.mui to C:\Windows\System32\en-US, 
-launch and enjoy!
+launch and enjoy! Or rename them as mspaint.exe put it on respective locations 
+if you changed your mind.
